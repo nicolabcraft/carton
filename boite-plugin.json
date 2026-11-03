@@ -1,0 +1,18 @@
+{
+  "schema": 1,
+  "id": "carton",
+  "name": "Carton",
+  "version": "0.1.0",
+  "description": "Shows each AI subscription's limit windows (5 hours, weekly, monthly), whether you use them at the pace that pays for them, and the month's API-equivalent worth.",
+  "homepage": "https://github.com/nicolabcraft/carton",
+  "executable": "carton",
+  "artifacts": {
+    "win32-x64": {
+      "url": "https://github.com/nicolabcraft/carton/releases/download/v0.1.0/carton-x86_64-pc-windows-msvc.exe",
+      "sha256": "0000000000000000000000000000000000000000000000000000000000000000"
+    }
+  },
+  "provides": {
+    "desktopApp": {}
+  }
+}
