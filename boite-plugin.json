@@ -9,7 +9,27 @@
   "artifacts": {
     "win32-x64": {
       "url": "https://github.com/nicolabcraft/carton/releases/download/v0.1.0/carton-x86_64-pc-windows-msvc.exe",
-      "sha256": "0000000000000000000000000000000000000000000000000000000000000000"
+      "sha256": "622b3dda021dd2adac83305dfa2da3d0e1be5b0b400c41ddc0de8e5854eb8da6"
+    },
+    "win32-arm64": {
+      "url": "https://github.com/nicolabcraft/carton/releases/download/v0.1.0/carton-aarch64-pc-windows-msvc.exe",
+      "sha256": "6a8f490b147e8a14b9d5ab35f35d38bd375a87aeca78b72bcecf3fb92279cc92"
+    },
+    "darwin-x64": {
+      "url": "https://github.com/nicolabcraft/carton/releases/download/v0.1.0/carton-x86_64-apple-darwin",
+      "sha256": "8bacfbb85e85f0a5d9ebda62bc33b6bec0bdc93276e1da74cc34ce8a62bfb896"
+    },
+    "darwin-arm64": {
+      "url": "https://github.com/nicolabcraft/carton/releases/download/v0.1.0/carton-aarch64-apple-darwin",
+      "sha256": "a41f28b0a3b1e002e4ad734a0a96d2acd98af53708f9fe2cadc34835d292900e"
+    },
+    "linux-x64": {
+      "url": "https://github.com/nicolabcraft/carton/releases/download/v0.1.0/carton-x86_64-unknown-linux-gnu",
+      "sha256": "5b6ccc190ce2eda4becd6ccab031fe05646cf9cd850f024d07a478ce9bbf2999"
+    },
+    "linux-arm64": {
+      "url": "https://github.com/nicolabcraft/carton/releases/download/v0.1.0/carton-aarch64-unknown-linux-gnu",
+      "sha256": "0c15021f6e5b3f00e2fb2839788301a6a94c694b64322bd95c93b68a70c17f69"
     }
   },
   "provides": {
